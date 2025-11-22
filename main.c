@@ -1,10 +1,10 @@
 
 
-void setup() {
-    // Initialization code here
-}
+#include <stdio.h>
 
+int main() {
+    printf("Hello World!\nRiFFfer\n");
+    return 0;
 
-void loop() {
-    print("Hello, World!\n");
+    
 }
